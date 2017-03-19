@@ -12,6 +12,11 @@ I succeeded in getting through two burndown lists in a single, 2-week sprint. So
 * **Change Save Method:** There was a back button in-game when I started, but the client wanted that functionality to be taken care of using the in-browser back button. I changed the way the game stored its save-state to make this happen.
 
 ***
+[Proto-Twitterbot] (https://github.com/HenryProjects/ProtoTwitterBot)
+---
+Shannon Henry and I collaborated on a Python twitterbot that watches for Donald Trump to post on Twitter. When it finds a new post, it replies with a randomly generated Shakespearean insult. You can follow the bot on twitter (@BardVs45) or click the link above to check out the source code.
+
+***
 [File Backup App] (https://github.com/HenryTech/Python-File-Transfer)
 ---
 This is an app I built in stages, creating each module before adding it to the whole. It includes a GUI and uses a SQLite table to track time of last backup and only backup recently edited files.
